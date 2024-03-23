@@ -6,7 +6,7 @@
 }
 .about{
     
-    background-image: url('contact_us_2.jpg');
+    background-image: url("contact_us_2.jpg");
     background-size: cover;
     background-attachment: fixed;
     margin: 0;
